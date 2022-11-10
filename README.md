@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ridzaachyar
-- 👀 I’m interested in Mobile Apps Programming
-- 🌱 I’m currently learning (Flutter, Android , Swift , Kotlin and Java Technology)
+- 👀 I’m interested in Backend and Mobile Apps Developer
+- 🌱 I’m currently learning (Flutter, Android , Swift , Golang, Kotlin and Java Technology)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (follow me on social media such as instagram/twiiter : ridzaachyar)
 
